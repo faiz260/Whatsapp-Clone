@@ -1,0 +1,123 @@
+/* Main body */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 500px;
+  padding-right: 450px;
+  max-width: 2000px;
+  width: 450px;
+}
+/* div 2 border control */
+.div-2 {
+  border: 1px solid;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+/* Header styling */
+.div-2 {
+  background-color: darkcyan;
+  padding: 30px 20px;
+}
+/* Header headings control */
+/* WhatsApp heading */
+h2 {
+  font-size: 25px;
+  color: white;
+  padding-bottom: 0px;
+}
+/* Lower header headings */
+.h3-h {
+  display: inline;
+  display: inline-block;
+}
+.h3-h a {
+  display: inline;
+  color: floralwhite;
+  padding: 20px;
+  padding-bottom: 10px;
+}
+/* on active gesture */
+body div div h3 a.active {
+  color: white;
+  border-bottom: 5px solid;
+}
+/* Header headings on-hover gesture */
+.h3-h a:hover {
+  color: white;
+  background-color: rgb(226, 226, 226);
+}
+a {
+  text-align: center;
+}
+/* Camera icon */
+.camera {
+  display: inline;
+  padding-right: 20px;
+}
+/* link */
+a {
+  text-decoration: none;
+}
+/* Upper header style */
+.uper-header {
+  display: inline-block;
+}
+/* search icon */
+img.uper-header {
+  padding-left: 150px;
+  padding-right: 0;
+  padding-bottom: 10px;
+  color: white;
+}
+/* vertical dots icon */
+.vertical-dots {
+  padding-left: 10px;
+  display: inline;
+}
+/* list */
+ul {
+  list-style-type: none;
+}
+/* div 3 border control */
+.div-3 {
+  border: 1px solid;
+  padding-right: 30px;
+  padding-left: 30px;
+  padding-top: 10px;
+}
+
+/* Chats */
+.contact-list {
+  height: 30px;
+  width: 380px;
+  padding: 5px;
+  text-align: justify;
+  font-size: 25px;
+  color: black;
+}
+/*messages*/
+.messages {
+  opacity: 0.6;
+}
+/* profile picture */
+.profile-picture {
+  border-radius: 30px;
+  width: 65px;
+  padding-right: 30px;
+  height: auto;
+  opacity: 0.4;
+}
+/* Call icon */
+.call-icon {
+  float: right;
+  width: 30px;
+  height: auto;
+  opacity: 0.4;
+}
+.rc {
+  background-color: lightgray;
+  font-weight: 20px;
+}
+hr {
+  opacity: 0.2;
+}
